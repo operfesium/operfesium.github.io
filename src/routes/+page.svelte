@@ -4,7 +4,7 @@
     <li><img src="/assets/icons/ruby.svg" class="icon" alt="ruby icon"> Ruby Programming</li>
     <li><img src="/assets/icons/archlinux.svg" class="icon" alt="arch linux icon"> Linux, specifically Arch Linux/CachyOS</li>
     <li><img src="/assets/icons/video.svg" class="icon" alt="video icon"> Dexter, Prison Break, Breaking Bad, Murder Drones, The Amazing Digital Circus and more ...</li>
-    <li><img src="/assets/icons/play.svg" class="icon" alt="play icon"> Satisfactory, Counter-Strike 2, SCP:SL & Roblox</li>
+    <li><img src="/assets/icons/play.svg" class="icon" alt="play icon"> OneShot, Roblox, SCP:SL, Counter-Strike 2, Satisfactory</li>
 </ul>
 <p>Other things:</p>
 <ul class="no-bullets bold">
